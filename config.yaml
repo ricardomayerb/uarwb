@@ -1,7 +1,7 @@
 theme: starter-academic
 title: Academic
 baseurl: 'https://dsss-teaching.netlify.app/'
-copyright: 'Este es mi footer!'
+copyright: 'DSSS 2021'
 enableGitInfo: no
 defaultContentLanguage: en
 hasCJKLanguage: no

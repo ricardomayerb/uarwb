@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: Todos
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: R
+    tag: R
+  - name: Python
+    tag: Python
+  - name: Comunicaciones
+    tag: comunicaciones
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
