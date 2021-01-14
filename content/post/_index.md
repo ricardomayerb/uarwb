@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: Posts
+title: Cursos, talleres, diplomados
 view: 2
 ---

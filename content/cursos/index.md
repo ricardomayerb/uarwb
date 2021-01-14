@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/georgecushen
 slides: example
-summary: An example of using the in-built project page.
+summary: Curso de introducción a DS con R
 tags:
 - Deep Learning
 title: Internal Project
